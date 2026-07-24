@@ -50,7 +50,7 @@
 | **[idtp](https://github.com/Oscar-Heredia/idtp)** | Fills PowerPoint templates with your documents' content — measuring text fit per slot before rendering. Your template, your brand, and the text always fits. | Python · fontTools |
 | **[APIJWT](https://github.com/Oscar-Heredia/APIJWT)** | REST API with JSON Web Token authentication — login, protected routes, and token lifecycle. | Node.js · JWT |
 | **[api_facturas](https://github.com/Oscar-Heredia/api_facturas)** | Invoicing REST API for creating and managing billing records. | Node.js · JavaScript |
-| **[Invernadero IoT](https://github.com/Oscar-Heredia/Invernadero_IOT_7D)** | Tech-enabled greenhouse: sensors, actuators, and remote monitoring. | C++ · Arduino |
+| **[invernadero-iot](https://github.com/Oscar-Heredia/invernadero-iot)** | Smart greenhouse: DHT11/LM393 sensors, actuators, and MQTT remote monitoring. | C++ · Arduino · MQTT |
 
 ### 📊 GitHub Stats
 
