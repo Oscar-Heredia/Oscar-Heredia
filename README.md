@@ -1,12 +1,17 @@
-<h1 align="center">Hi, I'm Oscar Heredia 👋</h1>
-<h3 align="center">Full-Stack Web Developer · México</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:6f42c1,100:1a1b27&height=200&section=header&text=Oscar%20Heredia&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=WEROSKI&descSize=22&descAlignY=58" width="100%" alt="header" />
+
+<p align="center">
+  <a href="https://github.com/Oscar-Heredia">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;JavaScript+%C2%B7+Node.js+%C2%B7+Python;IoT+builder+%E2%80%94+C%2B%2B+%2B+Arduino+%2B+MQTT;Building+tools+that+ship+%F0%9F%9A%80" alt="Typing animation" />
+  </a>
+</p>
 
 <p align="center">
   <a href="mailto:weroskidev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-weroskidev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-weroskidev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Oscar-Heredia">
-    <img src="https://img.shields.io/github/followers/Oscar-Heredia?style=flat-square&logo=github&label=Follow&color=181717" alt="GitHub" />
+    <img src="https://img.shields.io/github/followers/Oscar-Heredia?style=for-the-badge&logo=github&label=Follow&color=181717" alt="GitHub" />
   </a>
 </p>
 
@@ -59,8 +64,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar-Heredia&layout=compact&hide_border=true&langs_count=6" alt="Top languages" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscar-Heredia&hide_border=true" alt="GitHub streak" height="165" />
+</p>
+
+### 🐍 Contribution graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oscar-Heredia/Oscar-Heredia/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Oscar-Heredia/Oscar-Heredia/output/github-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
 ---
 
 <p align="center">
   <i>Open to full-stack development opportunities — let's build something together.</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6f42c1,100:2F81F7&height=120&section=footer" width="100%" alt="footer" />
